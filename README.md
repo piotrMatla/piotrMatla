@@ -1,5 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://ibb.co/FxH6Xw8)
-<img width="400" src=""></img>
+<h1>Hi 👋 there</h1>
+
+![MasterHead](https://github.com/piotrMatla/piotrMatla/blob/main/coverGH.png)
 
 - 🌱 I’m currently learning **JS**
 
