@@ -1,6 +1,6 @@
 <h1>Hi 👋 there</h1>
 
-![MasterHead](https://github.com/piotrMatla/piotrMatla/blob/main/coverGH.png)
+![MasterHead](https://github.com/piotrMatla/piotrMatla/blob/main/coverimgGH.png)
 
 - 🌱 I’m currently learning **JS**
 
