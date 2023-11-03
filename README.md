@@ -15,7 +15,7 @@ Personally a husband and father with artistic hobbies.
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,git,github,vscode,ai,ps,xd&perline=10" style="max-width: 100%;"/>
+    <img src="https://skillicons.dev/icons?i=css,html,js,git,github,vscode,ai,ps,xd,cs&perline=10" style="max-width: 100%;"/>
   </a>
 </p>
 
