@@ -8,21 +8,19 @@ I have learned many things on my own. Now I am looking for a place to further de
 
 Personally a husband and father with artistic hobbies.
 
-- 🌱 I’m currently learning **JS**
-
 - 📫 How to reach me ► **piotrmatla@yahoo.pl**
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,git,github,vscode,ai,ps,xd,cs&perline=10" style="max-width: 100%;"/>
+    <img src="https://skillicons.dev/icons?i=tailwind,css,html,js,cs,azure,dotnet,git,github,md,vscode,rider,powershell,ai,ps,xd&perline=8&theme=light" style="max-width: 100%;"/>
   </a>
 </p>
 
-<h3 align="left">Want to learn:</h3>
+<h3 align="left">I'm currently learning:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,vue,nodejs,express,nextjs&perline=10" style="max-width: 100%;"/>
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,vite,cypress,postman&perline=8&theme=light" style="max-width: 100%;"/>
   </a>
 </p>
 
